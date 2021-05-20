@@ -1,0 +1,64 @@
+img {
+    height: 200px;
+}
+
+.title {
+    background-image: url("https://www.minecraft.net/content/dam/minecraft/news/minecraft-classic/HeaderCLASSIC.jpeg");
+    padding: 5px;
+    font-family: 'MinecraftiaRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: #ffff08;
+
+}
+
+body {
+    background-image: url("https://images2.alphacoders.com/853/thumb-1920-853424.jpg");
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fc7703;
+
+}
+
+img {
+    height: 100px;
+}
+
+.title2 {
+    font-family: 'Archivo Black', sans-serif;
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #00ffe5,
+        0 0 20px #00ffe5;
+
+}
+
+.text {
+    color: white;
+
+}
+
+.news {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.breakingnews {
+    color: white;
+    background-color: red;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    border: double cyan;
+    background-image: url("https://3iom3142cnb81rlnt6w4mtlr-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Bf64580dfb9f301a0949e60106526057.1824x0_q100_watermark_watermark_opacity-10_watermark_position-6_watermark_text-Copyright_Intihuatana-702x336.jpg");
+}
